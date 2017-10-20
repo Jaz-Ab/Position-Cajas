@@ -1,0 +1,105 @@
+body {
+  background-size: cover;
+  background-color: #AAB7B8;
+}
+
+.back {
+    background-size: cover;
+    background-image: url(../assets/images/images.png);
+    height: 320px;
+    width: 240px;
+    border: 6px solid pink;
+    display: inline-block;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+.home {
+  height: 55px;
+  margin-right: 50px;
+  margin-top: 40px;
+  width: auto;
+  display: block;
+}
+
+.list {
+  font-family: sans-serif;
+  font-size: 22px;
+  position: relative;
+  top: -100px;
+  left: -45px;
+}
+.title {
+  text-align: center;
+  padding-left: 32px;
+  font-family: cursive;
+  color: #A04000;
+  font-size: 32px;
+  position: relative;
+  top: -100px;
+  left: -45px;
+}
+
+.conteiner {
+  display: inline-block;
+  margin: 150px 40%;
+}
+
+/*caja 1*/
+.square-one {
+  height: 350px;
+  width: 350px;
+  background-color: #fc0404;
+  box-sizing: border-box;
+}
+
+.square-two {
+  height: 200px;
+  width: 200px;
+  background-color: #840484;
+  margin: auto;
+  position: relative;
+  top:21%;
+  box-sizing: border-box;
+}
+
+.square-three {
+  height: 100px;
+  width: 100px;
+  background-color: #fcfc04;
+  margin: auto;
+  position: relative;
+  top:0px;
+  right: 50px;
+  box-sizing: border-box;
+}
+
+/*caja 2*/
+.square-blue {
+  height: 350px;
+  width: 350px;
+  background-color: #0404e7;
+  box-sizing: border-box;
+}
+
+.square-green {
+  height: 201px;
+  width: 201px;
+  background-color: #048404;
+  margin: auto;
+  position: relative;
+  top:21.2%;
+  box-sizing: border-box;
+}
+
+.square-black {
+  height: 74px;
+  width: 74px;
+  background-color: black;
+  margin: auto;
+  position: relative;
+  top:-201px;
+  right: 138px;
+  box-sizing: border-box;
+}
